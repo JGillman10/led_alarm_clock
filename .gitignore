@@ -3,3 +3,4 @@ sdkconfig
 sdkconfig.old
 .cache/
 compile_commands.json
+managed_components/
